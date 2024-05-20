@@ -32,7 +32,7 @@ This CI pipeline is useful in the following scenarios:
 
 ## Contributors
 
-- [Your Name](link-to-your-github-profile)
+- [Aryo] ([https://github.com/Aryo80](https://github.com/Aryo80))
 
 Feel free to contribute to this project by opening issues or pull requests!
 
