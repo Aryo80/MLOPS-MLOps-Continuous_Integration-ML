@@ -4,7 +4,7 @@
 
 This project implements a continuous integration (CI) pipeline for a machine learning (ML) project using MLOps (Machine Learning Operations) practices. MLOps is a set of practices that aims to streamline and automate the process of deploying and managing machine learning models in production.
 
-## Business Issue
+## Business Issue:
 
 Many businesses today rely on machine learning models to make data-driven decisions and improve various aspects of their operations. However, deploying and managing these models in production can be challenging due to several factors:
 
