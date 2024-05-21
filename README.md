@@ -6,7 +6,7 @@ This project implements a continuous integration (CI) pipeline for a machine lea
 
 ## Business Issue
 
-Many businesses today rely on machine learning models to make data-driven decisions and improve various aspects of their operations. However, deploying and managing these models in production can be challenging due to several factors:
+Many businesses today rely on machine learning models to make data-driven decisions and improve various aspects of their operations. However, deploying and managing these models in production can be challenging due to several factors :
 
 - **Model Drift**: Over time, the data distribution in production environments may change, leading to a degradation in model performance.
 - **Scalability**: As the number of models and their complexity increase, managing them manually becomes impractical.
